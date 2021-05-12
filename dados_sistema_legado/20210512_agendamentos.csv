@@ -1,0 +1,20 @@
+cod_agendamento;descricao;dia;hora_inicio;hora_fim;cod_paciente;paciente;cod_medico;medico;cod_convenio;convenio;procedimento
+101;primeira consulta do paciente;01/02/2021;08:30:00;08:45:00;10268;Rúben Rebelo César;1;Pietro;5;Hospital;Consulta
+102;100;01/02/2021;08:30:00;09:00:00;10272;Isaac Severiano Nunes;2;Dr. Lucas;3;Migração;Consulta
+103;não cobrar;01/02/2021;14:00:00;14:30:00;10269;Lázaro Goulart Camarinho;1;Pietro;2;Particular;Consulta
+104;;03/02/2021;17:15:00;18:00:00;10275;Joel Medina Covilhã;1;Pietro;2;Particular;Consulta
+105;paciente com dores fortes;04/02/2021;13:30:00;13:50:00;10274;Amélie Azenha Fontoura;2;Dr. Lucas;5;Hospital;Consulta
+106;parente do Dr. Lucas;12/02/2021;14:20:00;15:00:00;10276;Lorenzo Milheirão Remígio;2;Dr. Lucas;5;Hospital;Consulta
+107;xxx;12/02/2021;14:25:00;14:45:00;10269;Lázaro Goulart Camarinho;1;Pietro;2;Particular;Consulta
+108;;07/03/2021;15:00:00;15:30:00;10270;Gabrielly Sesimbra Candeias;2;Dr. Lucas;5;Hospital;Consulta
+109;;08/03/2021;10:15:00;11:00:00;10272;Isaac Severiano Nunes;1;Pietro;3;Migração;Retorno
+110;;21/03/2021;09:10:00;10:30:00;10275;Joel Medina Covilhã;2;Dr. Lucas;2;Particular;Consulta
+111;;22/03/2021;11:00:00;11:30:00;10268;Rúben Rebelo César;2;Dr. Lucas;5;Hospital;Retorno
+112;paciente indicado pela filha do dr.;22/03/2021;11:10:00;11:50:00;10270;Gabrielly Sesimbra Candeias;1;Pietro;5;Hospital;Consulta
+114;;04/06/2021;09:00:00;09:45:00;10272;Isaac Severiano Nunes;1;Pietro;3;Migração;Consulta
+115;…;05/06/2021;17:00:00;17:25:00;10271;Hernâni Fidalgo Brito;2;Dr. Lucas;3;Migração;Consulta
+116;;15/06/2021;17:15:00;18:00:00;10271;Hernâni Fidalgo Brito;1;Pietro;3;Migração;Acompanhamento
+117;X-x-x-x;28/06/2021;11:00:00;11:30:00;10274;Amélie Azenha Fontoura;1;Pietro;5;Hospital;Retorno
+118;;06/08/2021;08:30:00;08:45:00;10277;Gabriella Fialho Feijó;1;Pietro;3;Migração;Consulta
+119;dores de cabeça muito fortes;16/08/2021;10:15:00;11:00:00;10268;Rúben Rebelo César;2;Dr. Lucas;5;Hospital;Acompanhamento
+120;queixa de dor na coluna;19/08/2021;08:30:00;09:00:00;10276;Lorenzo Milheirão Remígio;2;Dr. Lucas;5;Hospital;Consulta
