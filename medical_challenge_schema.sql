@@ -144,8 +144,8 @@ COMMIT;
 START TRANSACTION;
 USE `MedicalChallenge`;
 INSERT INTO `MedicalChallenge`.`pacientes` (`id`, `nome`, `sexo`, `nascimento`, `cpf`, `rg`, `id_convenio`, `cod_referencia`) VALUES (1, 'Paciente de Testes', DEFAULT, '1989-05-12', '000.000.000-00', '00000-0', 1, NULL);
-INSERT INTO `MedicalChallenge`.`pacientes` (`id`, `nome`, `sexo`, `nascimento`, `cpf`, `rg`, `id_convenio`, `cod_referencia`) VALUES (2, 'Fulano de Tal', DEFAULT, '1974-06-19', '111.111.111-22', '11111-2', 1, NULL);
-INSERT INTO `MedicalChallenge`.`pacientes` (`id`, `nome`, `sexo`, `nascimento`, `cpf`, `rg`, `id_convenio`, `cod_referencia`) VALUES (3, 'Ciclano de Tal', DEFAULT, '2001-12-25', '222.222.222-33', '22222-3', 4, NULL);
+INSERT INTO `MedicalChallenge`.`pacientes` (`id`, `nome`, `sexo`, `nascimento`, `cpf`, `rg`, `id_convenio`, `cod_referencia`) VALUES (10272, 'Fulano de Tal', DEFAULT, '1974-06-19', '111.111.111-22', '11111-2', 1, NULL);
+INSERT INTO `MedicalChallenge`.`pacientes` (`id`, `nome`, `sexo`, `nascimento`, `cpf`, `rg`, `id_convenio`, `cod_referencia`) VALUES (10276, 'Ciclano de Tal', DEFAULT, '2001-12-25', '222.222.222-33', '22222-3', 4, NULL);
 
 COMMIT;
 
